@@ -33,3 +33,4 @@ A ligação entre as emoções primárias e secundárias propostas por Plutchik 
 
 <img src="https://raw.githubusercontent.com/rdenadai/dataset-analise-sentimentos/main/img/plutchik.png" width="425px" />
 
+> Uma questão inicialmente não levantada no projeto é a possibilidade de se avaliar um cálculo de valência para a emoção. Isso pode ser futuramente avaliado a viabilidade de criação desta nova dimensão no dataset.
