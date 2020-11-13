@@ -10,23 +10,24 @@ No caso da polaridade, um dataset contendo 3 polaridades:
  - Neutro
 
 Já no caso das emoções, ter um dataset contendo as emoções definidas na teoria psicoevolucionária integrativa das emoções de Robert Plutchik.
-    - Básicas:
-        - Alegria
-        - Surpresa
-        - Confiança
-        - Antecipação
-        - Medo
-        - Raiva
-        - Desgosto
-        - Tristeza
-    - Secundárias:
-        - Amor
-        - Otimismo
-        - Desprezo
-        - Remorso
-        - Desaprovação
-        - Temor
-        - Submissão
+    
+- Básicas:
+    - Alegria
+    - Surpresa
+    - Confiança
+    - Antecipação
+    - Medo
+    - Raiva
+    - Desgosto
+    - Tristeza
+- Secundárias:
+    - Amor
+    - Otimismo
+    - Desprezo
+    - Remorso
+    - Desaprovação
+    - Temor
+    - Submissão
 
 A ligação entre as emoções primárias e secundárias propostas por Plutchik pode ser observada na famosa **Rodas das Emoções**.
 
