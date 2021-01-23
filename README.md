@@ -21,13 +21,15 @@ Já no caso das emoções, ter um dataset contendo as emoções definidas na teo
     - Desgosto
     - Tristeza
 - Secundárias:
-    - Amor
-    - Otimismo
-    - Desprezo
-    - Remorso
-    - Desaprovação
-    - Temor
-    - Submissão
+    - Otimismo (Alegria + Antecipação)
+    - Amor (Alegria + Confiança)
+    - Submissão (Confiança + Medo)
+    - Temor (Medo + Surpresa)
+    - Desaprovação (Surpresa + Tristeza)
+    - Remorso (Tristeza + Desgosto)
+    - Desprezo (Desgosto + Raiva)
+    - Agressividade (Raiva + Antecipação)
+
 
 A ligação entre as emoções primárias e secundárias propostas por Plutchik pode ser observada na famosa **Rodas das Emoções**.
 
